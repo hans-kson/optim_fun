@@ -1,2 +1,2 @@
 # optim_fun
-testing basic functions of various optimization frameworks
+Testing basic functions of various optimization frameworks. Mostly simple examples from each frameworks doc. Just to have it a little consolidated. 
